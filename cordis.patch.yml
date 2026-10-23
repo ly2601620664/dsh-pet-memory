@@ -1,0 +1,5 @@
+# dsh-pet-memory bundle patch：把陪伴记忆插件挂到 DSH。
+# 纯 insert(id/name) 即可；name 必须是实际包名。
+- insert:
+    - id: dsh-pet-memory
+      name: dsh-pet-memory
